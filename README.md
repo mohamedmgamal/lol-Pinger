@@ -1,2 +1,2 @@
 # lol ping
- lol Ping tester 
+ lol Ping tester , never lose agame again because of unexpected
